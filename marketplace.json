@@ -29,5 +29,6 @@
     "special_tags": ["Hackathon"], 
     "verticals": ["Healthcare"], 
     "markdown": "https://raw.githubusercontent.com/redis-developer/trackerNgin/master/readme.md",
-    "rank": 1
+    "rank": 1,
+    "featured": true
 }
